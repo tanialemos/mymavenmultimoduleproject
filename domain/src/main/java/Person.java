@@ -18,6 +18,6 @@ public class Person {
 
     @Override
     public String toString(){
-        return String.format("This is %s. It' a %s.", this.name, this.gender);
+        return String.format("This is %s. %s is a %s.", this.name, this.name, this.gender);
     }
 }
