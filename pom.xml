@@ -23,6 +23,11 @@
                 <artifactId>guava</artifactId>
                 <version>24.0-jre</version>
             </dependency>
+            <dependency>
+                <groupId>com.tania_lemos</groupId>
+                <artifactId>domain-module</artifactId>
+                <version>1.0</version>
+            </dependency>
         </dependencies>
     </dependencyManagement>
 
